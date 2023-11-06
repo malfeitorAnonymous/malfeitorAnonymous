@@ -1,22 +1,22 @@
-# Olá, sou o malfeitorAnonymous! 👾
+# Hello, I am malfeitorAnonymous! 👾
 
 ![Banner](./cybersecurity-banner.jpg)
 
-🕵️‍♂️ Sou um entusiasta de segurança cibernética e hacker ético. Dedico-me a descobrir vulnerabilidades, fortalecer sistemas e compartilhar conhecimento para construir um ciberespaço mais seguro.
+🕵️‍♂️ I am a cybersecurity enthusiast and ethical hacker. I dedicate myself to discovering vulnerabilities, strengthening systems, and sharing knowledge to build a safer cyberspace.
 
-🐍 Especializei-me em Python para criar ferramentas de penetração, análise forense e automação de tarefas relacionadas à segurança.
+🐍 I've specialized in Python to create penetration tools, forensic analysis, and automate security-related tasks.
 
-🔒 **Atualmente estou trabalhando em:** desenvolvimento de uma nova ferramenta de análise de vulnerabilidades para sistemas web.
+🔒 Currently working on: developing a new vulnerability analysis tool for web systems.
 
-📘 **Estou aprendendo:** técnicas avançadas de evasão e engenharia reversa.
+📘 I'm learning: advanced evasion techniques and reverse engineering.
 
-🤖 **Projetos notáveis:** [CyberToolX](https://github.com/malfeitorAnonymous/CyberToolX) e [SecurePy](https://github.com/malfeitorAnonymous/SecurePy).
+🤖 Notable projects: CyberToolX and SecurePy.
 
-📫 **Como me alcançar:** Prefiro o anonimato, mas você pode abrir uma issue em um dos meus repositórios se quiser colaborar.
+📫 How to reach me: I prefer anonymity, but you can open an issue on one of my repositories if you'd like to collaborate.
 
-⚡ **Curiosidade:** Já participei de várias competições CTF (Capture The Flag) e sempre estou à procura do próximo desafio!
+⚡ Fun fact: I've participated in several CTF (Capture The Flag) competitions and am always looking for the next challenge!
 
-## Minhas Estatísticas no GitHub
+My GitHub Statistics
 
 ![malfeitorAnonymous's GitHub Stats](https://github-readme-stats.vercel.app/api?username=malfeitorAnonymous&show_icons=true&theme=radical)
 
@@ -28,5 +28,3 @@
 ![Metasploit](https://img.shields.io/badge/-Metasploit-black?style=flat-square&logo=metasploit)
 
 ---
-
-⭐️ Mantendo o ciberespaço seguro com [malfeitorAnonymous](https://github.com/malfeitorAnonymous)
